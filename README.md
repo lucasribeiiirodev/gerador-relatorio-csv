@@ -12,7 +12,8 @@ O sistema permite que o usuário selecione um arquivo CSV e visualize informaç�
 
 ## 📷 Demonstração
 
-<img width="1280" height="1024" alt="interface do progama" src="https://github.com/user-attachments/assets/258db8ff-c0dd-47f3-964c-83184c4379f7" />
+<img width="601" height="631" alt="interface do progama" src="https://github.com/user-attachments/assets/ddf9985f-2aa7-444c-80c8-780cc64deb10" />
+
 
 
 ---
