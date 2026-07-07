@@ -1,0 +1,21 @@
+id_venda,data,produto,categoria,quantidade,preco_unitario,valor_total,vendedor,cidade,forma_pagamento
+1,2025-01-05,Notebook Dell Inspiron,Eletronicos,2,3200.00,6400.00,Carlos Silva,Salvador,Cartao de Credito
+2,2025-01-07,Mouse sem Fio Logitech,Eletronicos,10,89.90,899.00,Ana Souza,Feira de Santana,Pix
+3,2025-01-10,Cadeira Gamer,Moveis,1,1450.00,1450.00,Carlos Silva,Salvador,Boleto
+4,2025-01-12,Teclado Mecanico,Eletronicos,5,250.00,1250.00,Mariana Costa,Vitoria da Conquista,Cartao de Debito
+5,2025-01-15,Monitor 24 polegadas,Eletronicos,3,899.00,2697.00,Ana Souza,Feira de Santana,Pix
+6,2025-01-18,Mesa de Escritorio,Moveis,2,650.00,1300.00,Carlos Silva,Salvador,Cartao de Credito
+7,2025-01-20,Headset Gamer,Eletronicos,7,180.00,1260.00,Mariana Costa,Vitoria da Conquista,Pix
+8,2025-01-22,Impressora Multifuncional,Eletronicos,1,780.00,780.00,Ana Souza,Feira de Santana,Boleto
+9,2025-01-25,Estante de Livros,Moveis,4,320.00,1280.00,Carlos Silva,Salvador,Cartao de Debito
+10,2025-01-28,SSD 1TB,Eletronicos,6,420.00,2520.00,Mariana Costa,Vitoria da Conquista,Pix
+11,2025-02-02,Webcam Full HD,Eletronicos,8,150.00,1200.00,Ana Souza,Feira de Santana,Cartao de Credito
+12,2025-02-05,Sofa 3 Lugares,Moveis,1,2200.00,2200.00,Carlos Silva,Salvador,Boleto
+13,2025-02-08,Notebook Lenovo Ideapad,Eletronicos,3,2900.00,8700.00,Mariana Costa,Vitoria da Conquista,Cartao de Credito
+14,2025-02-10,Luminaria de Mesa,Moveis,10,95.00,950.00,Ana Souza,Feira de Santana,Pix
+15,2025-02-14,Fone de Ouvido Bluetooth,Eletronicos,12,199.90,2398.80,Carlos Silva,Salvador,Cartao de Debito
+16,2025-02-17,Armario de Aco,Moveis,2,780.00,1560.00,Mariana Costa,Vitoria da Conquista,Boleto
+17,2025-02-20,Placa de Video RTX,Eletronicos,2,3500.00,7000.00,Ana Souza,Feira de Santana,Cartao de Credito
+18,2025-02-23,Cadeira de Escritorio,Moveis,5,540.00,2700.00,Carlos Silva,Salvador,Pix
+19,2025-02-26,Roteador Wi-Fi,Eletronicos,9,220.00,1980.00,Mariana Costa,Vitoria da Conquista,Pix
+20,2025-03-01,Mesa de Centro,Moveis,3,410.00,1230.00,Ana Souza,Feira de Santana,Cartao de Debito
